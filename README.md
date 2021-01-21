@@ -37,3 +37,5 @@ Você pode executar esse código pelo terminal, indo até o diretório em que se
 - ```--threshold``` O número mínimo de correspondências entre duas imagens para que elas sejam consideradas relacionadas. Imagens com resoluçes maiores terão mais 'keypoints', portanto duas imagens terão mais correspondências. Se o algoritmo no está 'costurando' as imagens, abaixe esse número. (O padrão é 50)
 
 Este o meu primeiro algoritmo compartilhado pelo github, portanto não segui nenhum padrão, e o código pode ter estruturas duvidosas, porém tentei ser o mais didático possível na produção deste código. 
+
+Além dos comentários em inglês no arquivo ```stitching.py```, este repositório também contém um python notebook com um código que realiza exatamente os mesmos processos, porém com comentários em português, e a execução é feita em blocos.
